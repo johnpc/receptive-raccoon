@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Receptive Raccoon",
+  "avatar": "nIuOILiIicadjGaaa",
+  "preferredColor": "orange",
+  "language": "javascript.node",
+  "game": "table-tennis",
+  "run": "node main.js"
+}
